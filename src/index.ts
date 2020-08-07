@@ -1,1 +1,1 @@
-console.log("lindão");
+console.log('test')
